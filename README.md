@@ -34,4 +34,4 @@ generate
 
 - [GitHub issue](https://github.com/novakom-devel/krogerc-komgosp-man-bill/issues)
 - на електрону пошту <a href="mailto:novakom.devel@gmail.com?subject=Krogerc komgosp manual issue">novakom.devel@gmail.com</a>
-- завести заявку у [центрі звернень криворізького русерсного центру](https://krogerc.info/ua/komcentr/register/internal.html) тільки для зареєстрованих користувачів
+- завести заявку у [центрі звернень криворізького русерсного центру](https://krmisto.gov.ua/ua/komcentr/register/internal.html) тільки для зареєстрованих користувачів
